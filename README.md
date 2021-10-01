@@ -1,5 +1,7 @@
 # Text_to_Instagram_Image
 
+### A simple python program to convert texts (strings) to Instagram squared images.
+
 Requirements: Install the PILLOW package for Python
 
 1. Run the text_to_image.py script
